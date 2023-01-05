@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    font-family: open sance;sance-serif
+
+}
+/*header and nevagation style*/
+nav{
+    display: flex;
+    justify-:;
+}
+
+.nav-title{
+    font-weight: 800;
+font-size: 45px;
+}
+nav li{
+    list-style: none;
+}
+.tex-primary{
+    color: blue;
+
+}
